@@ -1,3 +1,52 @@
+# Ignore system directories
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+# Ignore other untracked files
+.arduinoIDE/
+.cache/
+.gitconfig
+.idlerc/
+.ipython/
+.julia/
+.keras/
+.lesshst
+.matplotlib/
+.pyenv/
+.redhat/
+.spyder-py3/
+.ssh/
+.thumbnails/
+.vscode/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IdeaProjects/
+IntelGraphicsProfiles/
+Jedi/
+Links/
+Muse Hub/
+Music/
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+angularone/
+my-new-app/
+node_modules/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+
+.bash_history
 AppData/
-*.log
-*.tmp
+NTUSER.DAT*
+ultralytics/
